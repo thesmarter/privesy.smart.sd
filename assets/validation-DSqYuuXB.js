@@ -1,0 +1,2 @@
+const s=/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/,c=e=>typeof e!="string"?!1:s.test(e.trim().toLowerCase()),a=(e,o=500)=>{if(typeof e!="string")return e;let r="";for(const t of e){const n=t.codePointAt(0);if(!(n<32&&t!=="	"&&t!==`
+`&&t!=="\r")&&n!==127&&(r+=t,r.length>=o))break}return r},i=e=>typeof e!="string"?"":e.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#39;");export{i as e,a as s,c as v};

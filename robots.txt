@@ -1,0 +1,85 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /edit/
+Disallow: /privacy/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /dashboard
+Disallow: /edit/
+Disallow: /privacy/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /dashboard
+Disallow: /edit/
+Disallow: /privacy/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /dashboard
+Disallow: /edit/
+Disallow: /privacy/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /dashboard
+Disallow: /edit/
+Disallow: /privacy/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /dashboard
+Disallow: /edit/
+Disallow: /privacy/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /dashboard
+Disallow: /edit/
+Disallow: /privacy/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /dashboard
+Disallow: /edit/
+Disallow: /privacy/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /dashboard
+Disallow: /edit/
+Disallow: /privacy/
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /dashboard
+Disallow: /edit/
+Disallow: /privacy/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /dashboard
+Disallow: /edit/
+Disallow: /privacy/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /dashboard
+Disallow: /edit/
+Disallow: /privacy/
+
+User-agent: CCBot
+Allow: /
+Disallow: /dashboard
+Disallow: /edit/
+Disallow: /privacy/
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /dashboard
+Disallow: /edit/
+Disallow: /privacy/
+
+Sitemap: https://privesy.smart.sd/sitemap.xml

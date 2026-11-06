@@ -1,0 +1,42 @@
+# Privesy
+
+> Privesy is a free privacy policy and terms of service generator for mobile and web apps. It creates store-ready documents from a short wizard, lets developers edit the Markdown, and can host the result on a public URL. No account is required.
+
+Privesy is built by Smart Team (https://www.smart.sd). The generated documents are templates, not legal advice. Optional AI features (Google Gemini or OpenAI) use a key supplied by the developer and kept in the browser.
+
+## What Privesy does
+
+- Generates a privacy policy and terms of service for Google Play, the App Store and web apps.
+- Covers data collection, third-party SDKs, children’s privacy, purchases and data deletion rights.
+- Exports documents as Markdown or standalone HTML and can host them on a shareable public link.
+- Includes a readable Markdown editor and an optional AI compliance check with the developer’s own API key.
+- Offers free tools for a GDPR cookie consent banner and Google Play Data Safety answers.
+
+## Pages
+
+- [Free Privacy Policy Generator for Apps — Privesy](https://privesy.smart.sd/): Create a privacy policy and terms of service for your app in minutes. Free, no account required, with Google Play and App Store-ready templates.
+- [About Privesy — Privacy Documents for Developers](https://privesy.smart.sd/about): Privesy is a free, open-source privacy policy generator built by Smart Team. Learn how it works and why API keys stay in your browser.
+- [Terms of Use — Privesy](https://privesy.smart.sd/terms): Read the terms that apply to using Privesy, its AI features and hosted policies.
+- [How to Get a Gemini or OpenAI API Key — Privesy](https://privesy.smart.sd/api-keys): Step-by-step guides to create a free Gemini API key or an OpenAI key for Privesy’s optional AI drafting and compliance check.
+- [Free Cookie Consent Banner Generator — Privesy](https://privesy.smart.sd/cookie-banner): Generate a customizable GDPR cookie consent banner in minutes. Configure the text and categories, copy the HTML snippet and add it to your site.
+- [Google Play Data Safety Helper — Privesy](https://privesy.smart.sd/data-safety): Draft consistent Google Play Data Safety answers with four quick questions. Copy the summary into the Play Console form.
+
+## Languages
+
+Privesy is available in English (English), Arabic, French, Spanish and German. Each localized page uses its own URL prefix:
+
+- English (English): https://privesy.smart.sd/
+- Arabic (العربية): https://privesy.smart.sd/ar
+- French (Français): https://privesy.smart.sd/fr
+- Spanish (Español): https://privesy.smart.sd/es
+- German (Deutsch): https://privesy.smart.sd/de
+
+## Arabic summary
+
+Privesy هو مولّد مجاني لسياسات الخصوصية وشروط الخدمة لتطبيقات الجوال والويب. ينشئ مستندات جاهزة للمتاجر من خلال معالج قصير، ويتيح تعديلها بصيغة Markdown واستضافتها على رابط عام. لا يتطلب حسابًا، وميزات الذكاء الاصطناعي الاختيارية تستخدم مفتاح Gemini أو OpenAI يبقى في المتصفح. المستندات قوالب وليست استشارة قانونية.
+
+## Optional
+
+- [Sitemap](https://privesy.smart.sd/sitemap.xml)
+- [Terms of Use](https://privesy.smart.sd/terms)
+- [About Privesy](https://privesy.smart.sd/about)

@@ -1,0 +1,1 @@
+const o=async t=>{const a=new TextEncoder().encode(String(t??"")),r=await globalThis.crypto.subtle.digest("SHA-256",a);return Array.from(new Uint8Array(r)).map(n=>n.toString(16).padStart(2,"0")).join("")};export{o as h};
